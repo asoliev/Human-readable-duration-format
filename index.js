@@ -42,4 +42,4 @@ function formatDuration(seconds) {
     }
     return f_arr;
 }
-console.log(formatDuration(1649007539));
+//console.log(formatDuration(1649007539));
